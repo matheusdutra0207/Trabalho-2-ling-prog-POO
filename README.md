@@ -27,7 +27,7 @@ Faça uma interface (pode ser no terminal) que simule um campeonato de pontos co
 
 6. A cada rodada, realize uma contagem dos gols feitos por cada jogador.
 
-7. Quando solicitado os artilheiros do campeonato, será mostrado os 5 jogadores com mais gols.  
+7. Quando solicitado os artilheiros do campeonato, serão mostrados os 5 jogadores com mais gols.  
 
 
 # Trabalho 2
