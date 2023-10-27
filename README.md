@@ -27,7 +27,10 @@ Faça uma interface (pode ser no terminal) que simule um campeonato de pontos co
 
 6. A cada rodada, realize uma contagem dos gols feitos por cada jogador.
 
-7. Quando solicitado os artilheiros do campeonato, serão mostrados os 5 jogadores com mais gols.  
+7. Quando solicitado os artilheiros do campeonato, serão mostrados os 5 jogadores com mais gols.
+
+8. É importante mencionar que uma rodada deve ter confrontos únicos e os confrontos só poderão se repetir em uma rodada se todos os times tiverem se enfrentando pelo menos uma vez. No caso de um campeonato com 20 times, serão 18 rodadas com 10 confrontos únicos.   
+
 
 
 # Trabalho 2
